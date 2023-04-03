@@ -1,0 +1,22 @@
+[
+    {
+        "brand": "Audi",
+        "model": "A7",
+        "year": 2023,
+        "engine_volume": 3.0,
+        "color": "blue",
+        "body_type": "coupe",
+        "mileage": 0,
+        "price": 60000
+    },
+    {
+        "brand": "Audi",
+        "model": "A6",
+        "year": 2021,
+        "engine_volume": 2.0,
+        "color": "white",
+        "body_type": "sedan",
+        "mileage": 50,
+        "price": 40000
+    }
+]
